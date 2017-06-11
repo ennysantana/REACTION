@@ -6,12 +6,12 @@
   "directories": {
     "test": "tests"
   },
-  "homepage": "https://github.com/reactioncommerce/reaction",
-  "url": "https://github.com/reactioncommerce/reaction",
+  "homepage": "https://github.com/ennysantana/REACTION",
+  "url": "https://github.com/ennysantana/REACTION",
   "email": "reaction@reactioncommerce.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/reactioncommerce/reaction.git"
+    "url": "https://github.com/ennysantana/REACTION.git"
   },
   "author": "Reaction Commerce <hello@reactioncommerce.com>",
   "license": "GPL-3.0",
